@@ -1,0 +1,123 @@
+.colordesc span.grey_1 {
+    background-color: var(--grey-1);
+}
+
+.colordesc span.grey_2 {
+    background-color: var(--grey-2);
+}
+
+.colordesc span.grey_3 {
+    background-color: var(--grey-3);
+}
+
+.colordesc span.grey_4 {
+    background-color: var(--grey-4);
+}
+
+.colordesc span.grey_cool {
+    background-color: var(--grey-cool);
+}
+
+.colordesc span.hextech_black {
+    background-color: var(--hextech-black);
+}
+
+.colordesc span.yellow {
+    background-color: var(--yellow);
+}
+
+.colordesc span.paladin_blue {
+    background-color: var(--paladin-blue);
+}
+
+.colordesc span.paladin_blue_2 {
+    background-color: var(--blue-3);
+}
+
+.colordesc span.mage_red {
+    background-color: var(--mage-red);
+}
+
+.colordesc span.mage_red_2 {
+    background-color: var(--mage-red-2);
+}
+
+.colordesc span.ip {
+    background-color: var(--ip);
+}
+
+.colordesc span.ip_2 {
+    background-color: var(--ip-2);
+}
+
+.colordesc span.xp {
+    background-color: var(--xp);
+}
+
+.colordesc span.blue_1 {
+    background-color: var(--blue-1);
+}
+
+.colordesc span.blue_2 {
+    background-color: var(--blue-2);
+}
+
+.colordesc span.blue_3 {
+    background-color: var(--blue-3);
+}
+
+.colordesc span.blue_4 {
+    background-color: var(--blue-4);
+}
+
+.colordesc span.blue_5 {
+    background-color: var(--blue-5);
+}
+
+.colordesc span.blue_6 {
+    background-color: var(--blue-6);
+}
+
+.colordesc span.blue_7 {
+    background-color: var(--blue-7);
+}
+
+.colordesc span.gold_1 {
+    background-color: var(--gold-1);
+}
+
+.colordesc span.gold_2 {
+    background-color: var(--gold-2);
+}
+
+.colordesc span.gold_3 {
+    background-color: var(--gold-3);
+}
+
+.colordesc span.gold_4 {
+    background-color: var(--gold-4);
+}
+
+.colordesc span.gold_5 {
+    background-color: var(--gold-5);
+}
+
+.colordesc span.gold_6 {
+    background-color: var(--gold-6);
+}
+
+.colordesc span.gold_7 {
+    background-color: var(--gold-7);
+}
+
+.gradient_bar.grey {
+    background: linear-gradient(var(--grey-1) 0%, var(--grey-2) 20%, var(--grey-3) 40%, var(--grey-4) 60%, var(--grey-cool) 80%, var(--hextech-black) 95%);;
+}
+
+.gradient_bar.blue {
+    background: linear-gradient(var(--blue-1) 0%, var(--blue-2) 16%, var(--blue-3) 33%, var(--blue-4) 50%, var(--blue-5) 66%, var(--blue-6) 77%, var(--blue-7) 85%);
+}
+
+.gradient_bar.gold {
+    background: linear-gradient(var(--gold-1) 0%, var(--gold-2) 16%, var(--gold-3) 33%, var(--gold-4) 50%, var(--gold-5) 66%, var(--gold-6) 84%, var(--gold-7) 95%);
+}

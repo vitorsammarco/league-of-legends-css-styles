@@ -1,0 +1,215 @@
+  @import url('./riotfonts.css');
+  
+  /* Beaufort for LOL Bold */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.svg#") format("svg");
+    font-weight:700;
+    font-style:normal;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-Bold";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Bold.svg#") format("svg");
+  }
+  /* Beaufort for LOL Bold Italic */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.svg#") format("svg");
+    font-weight:700;
+    font-style:italic;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-BoldItalic";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-BoldItalic.svg#") format("svg");
+  }
+  /* Beaufort for LOL Heavy */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.svg#") format("svg");
+    font-weight:800;
+    font-style:normal;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-Heavy";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Heavy.svg#") format("svg");
+  }
+  /* Beaufort for LOL Heavy Italic */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.svg#") format("svg");
+    font-weight:800;
+    font-style:italic;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-HeavyItalic";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-HeavyItalic.svg#") format("svg");
+  }
+  /* Beaufort for LOL Italic */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.svg#") format("svg");
+    font-weight:400;
+    font-style:italic;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-Italic";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Italic.svg#") format("svg");
+  }
+  /* Beaufort for LOL Light */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.svg#") format("svg");
+    font-weight:200;
+    font-style:normal;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-Light";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Light.svg#") format("svg");
+  }
+  /* Beaufort for LOL Light Italic */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.svg#") format("svg");
+    font-weight:200;
+    font-style:italic;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-LightItalic";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-LightItalic.svg#") format("svg");
+  }
+  /* Beaufort for LOL Medium */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.svg#") format("svg");
+    font-weight:500;
+    font-style:normal;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-Medium";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Medium.svg#") format("svg");
+  }
+  /* Beaufort for LOL Medium Italic */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.svg#") format("svg");
+    font-weight:500;
+    font-style:italic;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-MediumItalic";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-MediumItalic.svg#") format("svg");
+  }
+  /* Beaufort for LOL Regular */
+  @font-face{
+    font-family:"Beaufort for LOL";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.svg#") format("svg");
+    font-weight:400;
+    font-style:normal;
+  }
+  @font-face{
+    font-family:"BeaufortforLOL-Regular";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/BeaufortforLOL-Regular.svg#") format("svg");
+  }
+
+  
+
+
+  /* Spiegel Bold */
+  @font-face{
+    font-family:"Spiegel";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.svg#") format("svg");
+    font-weight:700;
+    font-style:normal;
+  }
+  @font-face{
+    font-family:"Spiegel-Bold";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Bold.svg#") format("svg");
+  }
+  /* Spiegel Bold Italic */
+  @font-face{
+    font-family:"Spiegel";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.svg#") format("svg");
+    font-weight:700;
+    font-style:italic;
+  }
+  @font-face{
+    font-family:"Spiegel-BoldItalic";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-BoldItalic.svg#") format("svg");
+  }
+  /* Spiegel Regular */
+  @font-face{
+    font-family:"Spiegel";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.svg#") format("svg");
+    font-weight:400;
+    font-style:normal;
+  }
+  @font-face{
+    font-family:"Spiegel-Regular";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-Regular.svg#") format("svg");
+  }
+  /* Spiegel Regular Italic */
+  @font-face{
+    font-family:"Spiegel";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.svg#") format("svg");
+    font-weight:400;
+    font-style:italic;
+  }
+  @font-face{
+    font-family:"Spiegel-RegularItalic";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-RegularItalic.svg#") format("svg");
+  }
+  /* Spiegel SemiBold */
+  @font-face{
+    font-family:"Spiegel";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.svg#") format("svg");
+    font-weight:600;
+    font-style:normal;
+  }
+  @font-face{
+    font-family:"Spiegel-SemiBold";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBold.svg#") format("svg");
+  }
+  /* Spiegel SemiBold Italic */
+  @font-face{
+    font-family:"Spiegel";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.svg#") format("svg");
+    font-weight:600;
+    font-style:italic;
+  }
+  @font-face{
+    font-family:"Spiegel-SemiBoldItalic";
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.eot?#iefix");
+    src:url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.eot?#iefix") format("eot"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.woff") format("woff"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.ttf") format("truetype"),url("https://s.lolstatic.com/awesomefonts/1.0.0/Fonts/Spiegel-SemiBoldItalic.svg#") format("svg");
+  }
+  

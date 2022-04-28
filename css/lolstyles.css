@@ -1,0 +1,170 @@
+@import url('./fonts/fonts.css');
+
+:root {
+
+    /* main-colors */
+    --yellow: #FABE0A;
+    --paladin-blue: #0A96AA;
+    --palladin-blue-2: #16CAE5;
+    --mage-red: #BE1E37;
+    --mage-red-2: #FF2345;
+    --ip: #1E815A;
+    --ip-2: #00A741;
+    --xp: #643C5A;
+    /* Grey Color Pallete */
+    --grey-1: #A09B8C;
+    --grey-2: #5B5A56;
+    --grey-3: #3C3C41;
+    --grey-4: #1E2328;
+    --grey-cool: #1E282D;
+    --hextech-black: #010A13;
+    /* Blue Pallete */
+    --blue-1: #CDFAFA;
+    --blue-2: #B2D9DB;
+    --blue-3: #0AC8B9;
+    --blue-4: #0A96AA;
+    --blue-5: #005A82;
+    --blue-6: #0A323C;
+    --blue-7: #0A142B;
+    /* Gold Pallete */
+    --gold-1: #F0E6D2;
+    --gold-2: #CDBE91;
+    --gold-3: #C8AA6E;
+    --gold-4: #C89B3C;
+    --gold-5: #785A28;
+    --gold-6: #463714;
+    --gold-7: #32281E;
+    --gold-link-hover: #EFE5D1;
+
+    /* Gradients*/
+    --grey-gradient: linear-gradient(var(--grey-1) 0%, var(--grey-2) 20%, var(--grey-3) 40%, var(--grey-4) 60%, var(--grey-cool) 80%, var(--hextech-black) 100%);
+    --blue-gradient: linear-gradient(var(--blue-1) 0%, var(--blue-2) 16%, var(--blue-3) 33%, var(--blue-4) 50%, var(--blue-5) 66%, var(--blue-6) 84%, var(--blue-7) 100%);
+    --gold-gradient: linear-gradient(var(--gold-1) 0%, var(--gold-2) 16%, var(--gold-3) 33%, var(--gold-4) 50%, var(--gold-5) 66%, var(--gold-6) 84%, var(--gold-7) 100%);
+
+    /* Animations */
+    --soft: cubic-bezier(0, 0, 0, 1);
+    --soft-stern: cubic-bezier(.2, .9, 0, 1);
+    --stern: cubic-bezier(1, 0, 1, 1);
+
+    /* Fonts */
+    --header-1: 40pt/42pt 'BeaufortforLOL-Bold';
+    --header-2: 30pt/32pt 'BeaufortforLOL-Bold';
+    --header-3: 24pt/28pt 'BeaufortforLOL-Bold';
+    --header-4: 18pt/14pt 'BeaufortforLOL-Bold';
+    --header-4-italic: 18pt/22pt 'BeaufortforLOL-MediumItalic';
+    --header-5: 14pt/18pt 'BeaufortforLOL-Bold';
+    --header-5-titlecase: 14pt/18pt 'BeaufortforLOL-Bold';
+    --header-6: 12pt/12pt 'BeaufortforLOL-Bold';
+    --large-text: 16pt/24pt 'BeaufortforLOL-Medium';
+    --medium-text: 14pt/20pt 'Spiegel-Regular';
+    --small-text: 12pt/16pt 'Spiegel-Regular';
+    --gold-link-rest: 12pt/28pt 'Spiegel';
+
+    /* Buttons Site*/
+    --gold-button: #D0A85C;
+    --blue-button: #0BC6E3;
+    --button-padding: 0.8em 1.6em;
+
+}
+
+h1 {
+    font: var(--header-1);
+    text-transform: uppercase;
+    color: var(--gold-1);
+}
+
+h2 {
+    font: var(--header-2);
+    text-transform: uppercase;
+    color: var(--gold-1);
+}
+
+h3 {
+    font: var(--header-3);
+    text-transform: uppercase;
+    color: var(--gold-1);
+}
+
+h4 {
+    font: var(--header-4);
+    text-transform: uppercase;
+    color: var(--gold-1);
+}
+
+h4.italic {
+    font: var(--header-4-italic);
+    text-transform: unset;
+    color: var(--gold-1);
+}
+
+h5 {
+    font: var(--header-5);
+    text-transform: uppercase;
+    color: var(--gold-1);
+}
+
+h5.titlecase {
+    font: var(--header-5-titlecase);
+    text-transform: unset;
+    color: var(--gold-1);
+}
+
+h6 {
+    font: var(--header-6);
+    text-transform: uppercase;
+    color: var(--gold-1);
+}
+
+.large_text {
+    font: var(--large-text);
+    color: var(--grey-1);
+}
+
+.medium_text {
+    font: var(--medium-text);
+    color: var(--grey-1);
+}
+
+.small_text {
+    font: var(--small-text);
+    color: var(--grey-1);
+}
+
+.gold_link_rest {
+    font: var(--gold-link-rest);
+    color: var(--gold-2);
+}
+
+.gold_link_rest:hover {
+    color: var(--gold-link-hover);
+}
+
+.cut_corner {
+    color: var(--gold-1);
+    font-family: 'Spiegel';
+    letter-spacing: 1.5px;
+    font-weight: 600;
+    padding: var(--button-padding);
+    transition: 1s var(--soft-stern);
+    cursor: pointer;
+    text-shadow: rgba(0, 0, 0, 0.3) 0 0 3px;
+}
+
+.cut_corner.blue {
+    background: linear-gradient(-45deg, transparent 0%, transparent 5%, var(--blue-button) 5.01%, var(--blue-button) 95%, transparent 95.01%, transparent 100%);
+    box-shadow: inset 0 0 0 -0.5em var(--blue-button);
+}
+
+.cut_corner.blue:hover {
+    box-shadow: inset 0 0 0 1em var(--blue-button);
+}
+
+.cut_corner.gold {
+    background: linear-gradient(-45deg, transparent 0%, transparent 5%, var(--gold-button) 5.01%, var(--gold-button) 95%, transparent 95.01%, transparent 100%);
+    box-shadow: inset 0 0 0 -0.5em var(--gold-button);
+
+}
+
+.cut_corner.gold:hover {
+    box-shadow: inset 0 0 0 1em var(--gold-button);
+}
